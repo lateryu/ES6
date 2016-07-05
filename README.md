@@ -1,4 +1,4 @@
-# ECMAScript 6入门
+# ECMAScript 6入门(作者:阮一峰)
 
 《ECMAScript 6入门》是一本开源的JavaScript语言教程，全面介绍ECMAScript 6新引入的语法特性。
 
@@ -24,3 +24,4 @@
 只要保持原作者署名和非商用，您可以自由地阅读、分享、修改本书。
 
 详细的法律条文请参见[创意共享](http://creativecommons.org/licenses/by-nc/4.0/)网站。
+本项目所有内容均转载至http://es6.ruanyifeng.com/#docs/string,请尊重作者,
